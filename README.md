@@ -78,18 +78,35 @@ print(citation('arqstats'), bibtex = TRUE)
 #> 
 #> To cite package 'arqstats' in publications use:
 #> 
-#>   Last F (2022). _arqstats: What the Package Does (One Line, Title
-#>   Case)_. R package version 0.99.0,
-#>   <https://github.com/gualapuromoises/arqstats>.
+#>   gualapuromoises (2022). _arqstats_. doi:10.18129/B9.bioc.arqstats
+#>   <https://doi.org/10.18129/B9.bioc.arqstats>,
+#>   https://github.com/gualapuromoises/arqstats/arqstats - R package
+#>   version 0.99.0, <http://www.bioconductor.org/packages/arqstats>.
 #> 
 #> A BibTeX entry for LaTeX users is
 #> 
 #>   @Manual{,
-#>     title = {arqstats: What the Package Does (One Line, Title Case)},
-#>     author = {First Last},
+#>     title = {arqstats},
+#>     author = {{gualapuromoises}},
 #>     year = {2022},
-#>     note = {R package version 0.99.0},
-#>     url = {https://github.com/gualapuromoises/arqstats},
+#>     url = {http://www.bioconductor.org/packages/arqstats},
+#>     note = {https://github.com/gualapuromoises/arqstats/arqstats - R package version 0.99.0},
+#>     doi = {10.18129/B9.bioc.arqstats},
+#>   }
+#> 
+#>   gualapuromoises (2022). "arqstats." _bioRxiv_. doi:10.1101/TODO
+#>   <https://doi.org/10.1101/TODO>,
+#>   <https://www.biorxiv.org/content/10.1101/TODO>.
+#> 
+#> A BibTeX entry for LaTeX users is
+#> 
+#>   @Article{,
+#>     title = {arqstats},
+#>     author = {{gualapuromoises}},
+#>     year = {2022},
+#>     journal = {bioRxiv},
+#>     doi = {10.1101/TODO},
+#>     url = {https://www.biorxiv.org/content/10.1101/TODO},
 #>   }
 ```
 
